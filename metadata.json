@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Rehearsal Room Booker",
+  "description": "A web application to manage bookings for a music rehearsal room. Users can register clients, view available time slots, book sessions, and see all reservations.",
+  "requestFramePermissions": []
+}
